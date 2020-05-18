@@ -13,7 +13,7 @@
 > 其他开源 [记账本微信小程序](https://github.com/chinarui-na/cashbook) [斗图微信小程序](https://github.com/chinarui-na/EmotionalSearch)
 
 # 技术栈
-#### quasar + vue + xterm + ssh2 + express + socket.io + fs
+#### quasar + vue + xterm + ssh2 + express + socket.io + fs 等
 
 <img src="http://img.chinarui.cn/shell2.jpg" width="300" hegiht="300" align=center />
 
