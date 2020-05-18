@@ -33,5 +33,5 @@ quasar dev -m electron
 
 ### 打包
 ```bash
-quasar dev -m electron
+quasar build -m electron
 ```
