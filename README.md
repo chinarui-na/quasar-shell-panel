@@ -15,6 +15,11 @@
 # 技术栈
 #### quasar + vue + xterm + ssh2 + express + socket.io + fs
 
+<img src="http://img.chinarui.cn/shell2.jpg" width="300" hegiht="300" align=center />
+
+<img src="http://img.chinarui.cn/shell1.jpg" width="300" hegiht="300" align=center />
+
+
 ### 运行在本地
 
 ```bash
