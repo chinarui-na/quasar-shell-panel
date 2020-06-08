@@ -328,7 +328,8 @@ function createNewServer(machineConfig, socket) {
 		host: ip,
 		port: 22,
 		username: username,
-		password: password
+		password: password,
+    keepaliveInterval:5000
 	});
 }
 
